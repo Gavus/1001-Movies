@@ -1,19 +1,21 @@
 #!/usr/bin/env python3
 
-import pandas as pd
+from pandas import DataFrame, read_csv
+from numpy import nan
 
 
-def read_csv(file: str) -> pd.DataFrame:
-    df = pd.read_csv(file, sep=">")
+def load_csv(file: str) -> DataFrame:
+    df = read_csv(file, sep=">")
     df.columns = df.columns.str.strip()
+    df["Watched"] = df["Watched"].replace(nan, "")
     return df
 
 
-def write_csv(df: pd.DataFrame, file: str):
+def save_csv(df: DataFrame, file: str):
     df.to_csv(file, sep=">", index=False)
 
 
-def write_markdown(df: pd.DataFrame, file: str):
+def save_markdown(df: DataFrame, file: str):
     md = df.to_markdown(index=False)
     if md is None:
         print("Error: Could not convert dataframe to markdown table")
@@ -23,8 +25,10 @@ def write_markdown(df: pd.DataFrame, file: str):
 
 
 def main():
-    df = read_csv("movies.txt")
-    write_markdown(df, "movies.md")
+    csvfile = "movies.txt"
+    tablefile = "movies.md"
+    df = load_csv(csvfile)
+    save_markdown(df, tablefile)
 
 
 if __name__ == "__main__":
