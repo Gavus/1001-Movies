@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 """
 Generate a markdown table based of movies.txt
 """
@@ -27,6 +26,13 @@ def save_csv(dataframe: DataFrame, csv: str):
     dataframe.to_csv(csv, sep=">", index=False)
 
 
+def print_info(dataframe: DataFrame):
+    nbr_titles = len(dataframe['Title'])
+    nbr_watched = sum(x != "" for x in dataframe['Watched'])
+    percentage = f"{100*nbr_watched/nbr_titles:.2f}%"
+    print(f"Total movies watched: {nbr_watched}/{nbr_titles} {percentage}")
+
+
 def save_markdown(dataframe: DataFrame, markdown: str):
     "Save dataframe as markdown table."
 
@@ -47,13 +53,17 @@ def main():
         epilog="text at the bottom of help")
     parser.add_argument("command",
                         help="What to do",
-                        choices=["save-table"])
+                        choices=["save-csv", "save-table", "info"])
     args = parser.parse_args()
 
     dataframe = load_csv(CSVFILE)
 
+    if args.command == "save-csv":
+        save_csv(dataframe, CSVFILE)
     if args.command == "save-table":
         save_markdown(dataframe, TABLEFILE)
+    if args.command == "info":
+        print_info(dataframe)
 
 
 if __name__ == "__main__":
