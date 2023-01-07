@@ -895,21 +895,21 @@
 |   1993 | The Puppetmaster (Hsimeng Jensheng)                                                            |           |
 |   1993 | The Remains of the Day                                                                         |           |
 |   1993 | Short Cuts                                                                                     |           |
-|   1993 | Schindler's List                                                                               |           |
+|   1993 | Schindler's List                                                                               | X         |
 |   1993 | Three Colors: Blue (Trois Couleurs: Bleu)                                                      |           |
 |   1993 | Farewell My Concubine (Ba Wang Bie Ji)                                                         |           |
 |   1993 | Groundhog Day                                                                                  |           |
 |   1993 | The Piano                                                                                      |           |
 |   1993 | The Wedding Banquet (Hsi Yen)                                                                  |           |
 |   1993 | Thirty Two Short Films About Glenn Gould                                                       |           |
-|   1993 | Jurassic Park                                                                                  |           |
+|   1993 | Jurassic Park                                                                                  | X         |
 |   1993 | The Age of Innocence                                                                           |           |
-|   1994 | The Lion King                                                                                  |           |
+|   1994 | The Lion King                                                                                  | X         |
 |   1994 | The Last Seduction                                                                             |           |
 |   1994 | The Wild Reeds (Les Roseaux Sauvages)                                                          |           |
 |   1994 | Crumb                                                                                          |           |
 |   1994 | Heavenly Creatures                                                                             |           |
-|   1994 | Pulp Fiction                                                                                   |           |
+|   1994 | Pulp Fiction                                                                                   | X         |
 |   1994 | Three Colors: Red (Trois Couleurs: Rouge)                                                      |           |
 |   1994 | Natural Born Killers                                                                           |           |
 |   1994 | Muriel's Wedding                                                                               |           |
@@ -918,18 +918,18 @@
 |   1994 | Sátántangó                                                                                     |           |
 |   1994 | Clerks                                                                                         |           |
 |   1994 | Four Weddings and a Funeral                                                                    |           |
-|   1994 | Forrest Gump                                                                                   |           |
+|   1994 | Forrest Gump                                                                                   | X         |
 |   1994 | Through the Olive Trees (Zire Darakhatan Zeyton)                                               |           |
-|   1994 | The Shawshank Redemption                                                                       |           |
+|   1994 | The Shawshank Redemption                                                                       | X         |
 |   1994 | Dear Diary (Caro Diario)                                                                       |           |
 |   1994 | Chungking Express (Chong Qing Sen Lin)                                                         |           |
 |   1994 | The Kingdom (Riget)                                                                            |           |
 |   1994 | Lamerica                                                                                       |           |
-|   1995 | Braveheart                                                                                     |           |
+|   1995 | Braveheart                                                                                     | X         |
 |   1995 | Deseret                                                                                        |           |
 |   1995 | Babe                                                                                           |           |
 |   1995 | Sense and Sensibility                                                                          |           |
-|   1995 | Se7en                                                                                          |           |
+|   1995 | Se7en                                                                                          | X         |
 |   1995 | Smoke                                                                                          |           |
 |   1995 | The White Balloon (Badkonake Sefid)                                                            |           |
 |   1995 | Underground                                                                                    |           |
@@ -938,35 +938,35 @@
 |   1995 | Clueless                                                                                       |           |
 |   1995 | Safe                                                                                           |           |
 |   1995 | Heat                                                                                           |           |
-|   1995 | Toy Story                                                                                      |           |
-|   1999 | Toy Story 2                                                                                    |           |
-|   2010 | Toy Story 3                                                                                    |           |
-|   2019 | Toy Story 4                                                                                    |           |
+|   1995 | Toy Story                                                                                      | X         |
+|   1999 | Toy Story 2                                                                                    | X         |
+|   2010 | Toy Story 3                                                                                    | X         |
+|   2019 | Toy Story 4                                                                                    | X         |
 |   1995 | Dead Man                                                                                       |           |
 |   1995 | The Usual Suspects                                                                             |           |
 |   1995 | Zero Kelvin (Kjærlighetens Kjøtere)                                                            |           |
 |   1995 | Casino                                                                                         |           |
 |   1995 | Strange Days                                                                                   |           |
-|   1996 | Trainspotting                                                                                  |           |
+|   1996 | Trainspotting                                                                                  | X         |
 |   1996 | Fargo                                                                                          |           |
 |   1996 | Gabbeh                                                                                         |           |
 |   1996 | Three Lives and Only One Death (Trois Vies & Une Seule Mort)                                   |           |
 |   1996 | Shine                                                                                          |           |
-|   1996 | Scream                                                                                         |           |
+|   1996 | Scream                                                                                         | X         |
 |   1996 | Secrets & Lies                                                                                 |           |
 |   1996 | The English Patient                                                                            |           |
 |   1996 | Lone Star                                                                                      |           |
 |   1996 | Breaking the Waves                                                                             |           |
-|   1996 | Independence Day                                                                               |           |
+|   1996 | Independence Day                                                                               | X         |
 |   1996 | The Pillow Book                                                                                |           |
 |   1997 | The Ice Storm                                                                                  |           |
 |   1997 | Hana-Bi                                                                                        |           |
 |   1997 | Boogie Nights                                                                                  |           |
 |   1997 | L.A. Confidential                                                                              |           |
-|   1997 | Funny Games                                                                                    |           |
+|   1997 | Funny Games                                                                                    | X         |
 |   1997 | Open Your Eyes (Abre Los Ojos)                                                                 |           |
 |   1997 | The Sweet Hereafter                                                                            |           |
-|   1997 | Titanic                                                                                        |           |
+|   1997 | Titanic                                                                                        | X         |
 |   1997 | Taste of Cherry (Ta'm e Guilass)                                                               |           |
 |   1997 | Deconstructing Harry                                                                           |           |
 |   1997 | Happy Together (Cheun Gwong Tsa Sit)                                                           |           |
@@ -976,33 +976,33 @@
 |   1997 | Kundun                                                                                         |           |
 |   1997 | Mother and Son (Mat' i Syn)                                                                    |           |
 |   1997 | Princess Mononoke                                                                              |           |
-|   1998 | Saving Private Ryan                                                                            |           |
+|   1998 | Saving Private Ryan                                                                            | X         |
 |   1998 | Run Lola Run (Lola Rennt)                                                                      |           |
 |   1998 | Rushmore                                                                                       |           |
 |   1998 | The Celebration (Festen)                                                                       |           |
 |   1998 | Buffalo '66                                                                                    |           |
-|   1998 | Ring (Ringu)                                                                                   |           |
+|   1998 | Ring (Ringu)                                                                                   | X         |
 |   1998 | Happiness                                                                                      |           |
 |   1998 | The Thin Red Line                                                                              |           |
 |   1989 | Tetsuo                                                                                         |           |
 |   1998 | Lock, Stock, and Two Smoking Barrels                                                           |           |
-|   1998 | Pi                                                                                             |           |
+|   1998 | Pi                                                                                             | X         |
 |   1998 | The Idiots (Idioterne)                                                                         |           |
 |   1998 | Sombre                                                                                         |           |
 |   1998 | There's Something About Mary                                                                   |           |
-|   1998 | The Big Lebowski                                                                               |           |
-|   1998 | The Truman Show                                                                                |           |
+|   1998 | The Big Lebowski                                                                               | X         |
+|   1998 | The Truman Show                                                                                | X         |
 |   1999 | The Blair Witch Project                                                                        |           |
 |   1999 | Being John Malkovich                                                                           |           |
-|   1999 | The Sixth Sense                                                                                |           |
+|   1999 | The Sixth Sense                                                                                | X         |
 |   1999 | Three Kings                                                                                    |           |
 |   1999 | Magnolia                                                                                       |           |
-|   1999 | Fight Club                                                                                     |           |
+|   1999 | Fight Club                                                                                     | X         |
 |   1999 | Audition (Ōdishon)                                                                             |           |
-|   1999 | American Beauty                                                                                |           |
+|   1999 | American Beauty                                                                                | X         |
 |   1999 | Beau Travail                                                                                   |           |
 |   1999 | All About My Mother (Todo Sobre mi Madre)                                                      |           |
-|   1999 | The Matrix                                                                                     |           |
+|   1999 | The Matrix                                                                                     | X         |
 |   1999 | Taboo (Gohatto)                                                                                |           |
 |   1999 | Rosetta                                                                                        |           |
 |   1999 | The Wind Will Carry Us (Bād mā rā Khāhad Bord)                                                 |           |
@@ -1011,12 +1011,12 @@
 |   1999 | Eyes Wide Shut                                                                                 |           |
 |   2000 | The Gleaners and I (Les Glaneurs et la Glaneuse)                                               |           |
 |   2000 | In the Mood for Love (Dut Yeung Nin Wa)                                                        |           |
-|   2000 | Gladiator                                                                                      |           |
+|   2000 | Gladiator                                                                                      | X         |
 |   2000 | Kippur                                                                                         |           |
 |   2000 | A One and a Two (Yi Yi)                                                                        |           |
-|   2000 | Requiem for a Dream                                                                            |           |
+|   2000 | Requiem for a Dream                                                                            | X         |
 |   2000 | Amores Perros                                                                                  |           |
-|   2000 | Memento                                                                                        |           |
+|   2000 | Memento                                                                                        | X         |
 |   2000 | Crouching Tiger, Hidden Dragon (Wo Hu Cang Long)                                               |           |
 |   2000 | Nine Queens (Nueve Reinas)                                                                     |           |
 |   2000 | The Captive (La Captive)                                                                       |           |
@@ -1025,12 +1025,12 @@
 |   2000 | Signs & Wonders                                                                                |           |
 |   2000 | Traffic                                                                                        |           |
 |   2000 | Dancer in the Dark                                                                             |           |
-|   2000 | O Brother, Where Art Thou?                                                                     |           |
-|   2001 | The Lord of the Rings: The Fellowship of the Ring                                              |           |
-|   2002 | The Lord of the Rings: The Two Towers                                                          |           |
-|   2003 | The Lord of the Rings: The Return of the King                                                  |           |
-|   2003 | Finding Nemo                                                                                   |           |
-|   2001 | Spirited Away (Sen to Chihiro no Kamikakushi)                                                  |           |
+|   2000 | O Brother, Where Art Thou?                                                                     | X         |
+|   2001 | The Lord of the Rings: The Fellowship of the Ring                                              | X         |
+|   2002 | The Lord of the Rings: The Two Towers                                                          | X         |
+|   2003 | The Lord of the Rings: The Return of the King                                                  | X         |
+|   2003 | Finding Nemo                                                                                   | X         |
+|   2001 | Spirited Away (Sen to Chihiro no Kamikakushi)                                                  | X         |
 |   2001 | No Man's Land                                                                                  |           |
 |   2001 | Amélie (Le Fabuleux Destin d' Amélie Poulain)                                                  |           |
 |   2001 | What Time Is It There? (Ni na Bian Ji Dian)                                                    |           |
@@ -1038,20 +1038,20 @@
 |   2001 | Kandahar (Safar e Ghandehar)                                                                   |           |
 |   2001 | The Piano Teacher (La Pianiste)                                                                |           |
 |   2001 | The Son's Room (La Stanza del Figlio)                                                          |           |
-|   2001 | Moulin Rouge                                                                                   |           |
+|   2001 | Moulin Rouge                                                                                   | X         |
 |   2001 | Monsoon Wedding                                                                                |           |
 |   2001 | Fat Girl (A Ma Soeur!)                                                                         |           |
 |   2001 | Mulholland Drive                                                                               |           |
 |   2001 | The Royal Tenenbaums                                                                           |           |
 |   2001 | Lantana                                                                                        |           |
 |   2001 | A.I.: Artificial Intelligence                                                                  |           |
-|   2001 | Spirited Away                                                                                  |           |
+|   2001 | Spirited Away                                                                                  | X         |
 |   2002 | Gangs of New York                                                                              |           |
 |   2002 | Russian Ark (Russkij Kovcheg)                                                                  |           |
 |   2002 | Bowling for Columbine                                                                          |           |
 |   2002 | City of God (Cidade de Deus)                                                                   |           |
 |   2002 | Talk to Her (Hable Con Ella)                                                                   |           |
-|   2002 | The Pianist                                                                                    |           |
+|   2002 | The Pianist                                                                                    | X         |
 |   2002 | Adaptation.                                                                                    |           |
 |   2002 | Far from Heaven                                                                                |           |
 |   2002 | Chicago                                                                                        |           |
@@ -1062,11 +1062,11 @@
 |   2002 | Bus 174                                                                                        |           |
 |   2003 | Elephant                                                                                       |           |
 |   2003 | Aileen: Life and Death of a Serial Killer                                                      |           |
-|   2003 | Oldboy                                                                                         |           |
+|   2003 | Oldboy                                                                                         | X         |
 |   2003 | Good Bye, Lenin!                                                                               |           |
 |   2003 | Osama                                                                                          |           |
 |   2003 | The Barbarian Invasions (Les Invasions Barbares)                                               |           |
-|   2003 | Kill Bill, Vol. 1                                                                              |           |
+|   2003 | Kill Bill, Vol. 1                                                                              | X         |
 |   2003 | The Best of Youth (La Meglio Gioventù)                                                         |           |
 |   2003 | Lost in Translation                                                                            |           |
 |   2004 | Head-On (Gegen Die Wand)                                                                       |           |
@@ -1074,7 +1074,7 @@
 |   2004 | Moolaadé                                                                                       |           |
 |   2004 | Downfall (Der Untergang)                                                                       |           |
 |   2004 | Fahrenheit 9/11                                                                                |           |
-|   2004 | The Passion of the Christ                                                                      |           |
+|   2004 | The Passion of the Christ                                                                      | X         |
 |   2004 | Collateral                                                                                     |           |
 |   2004 | The Aviator                                                                                    |           |
 |   2004 | Million Dollar Baby                                                                            |           |
@@ -1084,60 +1084,60 @@
 |   2004 | Sideways                                                                                       |           |
 |   2004 | A Very Long Engagement (Un Long Dimanche de Fiançailles)                                       |           |
 |   2005 | Tsotsi                                                                                         |           |
-|   2005 | Brokeback Mountain                                                                             |           |
+|   2005 | Brokeback Mountain                                                                             | X         |
 |   2005 | Go, See, and Become (Va, Vis et Deviens / Live and Become)                                     |           |
 |   2005 | Paradise Now                                                                                   |           |
 |   2005 | Hidden (Caché)                                                                                 |           |
 |   2005 | The Constant Gardener                                                                          |           |
-|   2005 | Pride and Prejudice                                                                            |           |
-|   2005 | V for Vendetta                                                                                 |           |
+|   2005 | Pride and Prejudice                                                                            | X         |
+|   2005 | V for Vendetta                                                                                 | X         |
 |   2006 | Pan's Labyrinth (El Laberinto del Fauno)                                                       |           |
 |   2006 | The Lives of Others (Das Leben der Anderen)                                                    |           |
 |   2006 | Apocalypto                                                                                     |           |
-|   2006 | Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan            |           |
+|   2006 | Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan            | X         |
 |   2006 | Once                                                                                           |           |
 |   2006 | The Queen                                                                                      |           |
 |   2006 | The Host (Gwoemul)                                                                             |           |
 |   2006 | The Prestige                                                                                   |           |
 |   2006 | Children of Men                                                                                |           |
 |   2006 | United 93                                                                                      |           |
-|   2006 | The Last King of Scotland                                                                      |           |
+|   2006 | The Last King of Scotland                                                                      | X         |
 |   2006 | Babel                                                                                          |           |
 |   2006 | Volver                                                                                         |           |
-|   2006 | Little Miss Sunshine                                                                           |           |
+|   2006 | Little Miss Sunshine                                                                           | X         |
 |   2006 | The Departed                                                                                   |           |
 |   2007 | Paranormal Activity                                                                            |           |
-|   2007 | There Will Be Blood                                                                            |           |
+|   2007 | There Will Be Blood                                                                            | X         |
 |   2007 | La Vie en Rose                                                                                 |           |
 |   2007 | Into the Wild                                                                                  |           |
 |   2007 | Atonement                                                                                      |           |
 |   2007 | Surfwise                                                                                       |           |
 |   2007 | The Bourne Ultimatum                                                                           |           |
-|   2007 | No Country for Old Men                                                                         |           |
+|   2007 | No Country for Old Men                                                                         | X         |
 |   2007 | The Diving Bell and the Butterfly (Le Scaphandre et le Papillon)                               |           |
-|   2008 | The Hurt Locker                                                                                |           |
-|   2008 | Slumdog Millionaire                                                                            |           |
-|   2008 | The Dark Knight                                                                                |           |
-|   2008 | Let the Right One In (Låt den Rätte Komma In)                                                  |           |
-|   2008 | Wall-E                                                                                         |           |
+|   2008 | The Hurt Locker                                                                                | X         |
+|   2008 | Slumdog Millionaire                                                                            | X         |
+|   2008 | The Dark Knight                                                                                | X         |
+|   2008 | Let the Right One In (Låt den Rätte Komma In)                                                  | X         |
+|   2008 | Wall-E                                                                                         | X         |
 |   2008 | The Good, the Bad, the Weird (Joheun nom Nabbeun nom Isanghan nom)                             |           |
 |   2008 | The Wrestler                                                                                   |           |
 |   2008 | The Curious Case of Benjamin Button                                                            |           |
 |   2008 | The Class (Entre les Murs)                                                                     |           |
 |   2008 | Anvil! The Story of Anvil                                                                      |           |
 |   2008 | Gomorrah (Gomorra)                                                                             |           |
-|   2009 | District 9                                                                                     |           |
+|   2009 | District 9                                                                                     | X         |
 |   2009 | Avatar                                                                                         |           |
 |   2009 | An Education                                                                                   |           |
 |   2009 | Precious: Based on the Novel "Push" by Sapphire                                                |           |
-|   2009 | The Hangover                                                                                   |           |
+|   2009 | The Hangover                                                                                   | X         |
 |   2009 | In the Loop                                                                                    |           |
 |   2009 | Fish Tank                                                                                      |           |
-|   2009 | Inglourious Basterds                                                                           |           |
+|   2009 | Inglourious Basterds                                                                           | X         |
 |   2009 | The White Ribbon (Das Weisse Band: Eine Deutsche Kindergeschichte)                             |           |
 |   2009 | Up                                                                                             |           |
 |   2010 | Nostalgia for the Light (Nostalgia de la luz)                                                  |           |
-|   2010 | Black Swan                                                                                     |           |
+|   2010 | Black Swan                                                                                     | X         |
 |   2010 | Inception                                                                                      |           |
 |   2010 | The Social Network                                                                             |           |
 |   2010 | Monsters                                                                                       |           |
@@ -1147,7 +1147,7 @@
 |   2010 | The King's Speech                                                                              |           |
 |   2010 | Senna                                                                                          |           |
 |   2010 | Cave of Forgotten Dreams                                                                       |           |
-|   2010 | Tangled                                                                                        |           |
+|   2010 | Tangled                                                                                        | X         |
 |   2011 | The Artist                                                                                     |           |
 |   2011 | A Separation (Jodái-e Náder az Simin)                                                          |           |
 |   2011 | The Girl with the Dragon Tattoo                                                                |           |
@@ -1160,17 +1160,17 @@
 |   2011 | Bridesmaids                                                                                    |           |
 |   2011 | The Tree of Life                                                                               |           |
 |   2011 | The Kid with a Bike (Le Gamin au vélo)                                                         |           |
-|   2011 | Drive                                                                                          |           |
-|   2012 | The Cabin in the Woods                                                                         |           |
+|   2011 | Drive                                                                                          | X         |
+|   2012 | The Cabin in the Woods                                                                         | X         |
 |   2012 | Wadjda                                                                                         |           |
 |   2012 | Lincoln                                                                                        |           |
-|   2012 | Life of Pi                                                                                     |           |
+|   2012 | Life of Pi                                                                                     | X         |
 |   2012 | Les Misérables                                                                                 |           |
 |   2012 | Argo                                                                                           |           |
-|   2012 | Skyfall                                                                                        |           |
+|   2012 | Skyfall                                                                                        | X         |
 |   2012 | Blancanieves                                                                                   |           |
 |   2012 | Amour                                                                                          |           |
-|   2012 | Django Unchained                                                                               |           |
+|   2012 | Django Unchained                                                                               | X         |
 |   2012 | The Act of Killing                                                                             |           |
 |   2013 | Gravity                                                                                        |           |
 |   2013 | The Great Beauty (La grande bellezza)                                                          |           |
@@ -1182,26 +1182,26 @@
 |   2013 | A Touch of Sin (Tian zhu ding)                                                                 |           |
 |   2013 | Ida                                                                                            |           |
 |   2013 | Under the Skin                                                                                 |           |
-|   2013 | The Wolf of Wall Street                                                                        |           |
+|   2013 | The Wolf of Wall Street                                                                        | X         |
 |   2014 | Leviathan (Leviafan)                                                                           |           |
 |   2014 | Boyhood                                                                                        |           |
 |   2014 | Birdman: Or (The Unexpected Virtue of Ignorance)                                               |           |
 |   2014 | Whiplash                                                                                       |           |
-|   2014 | The Grand Budapest Hotel                                                                       |           |
+|   2014 | The Grand Budapest Hotel                                                                       | X         |
 |   2014 | Citizenfour                                                                                    |           |
-|   2014 | Guardians of the Galaxy                                                                        |           |
+|   2014 | Guardians of the Galaxy                                                                        | X         |
 |   2014 | The Theory of Everything                                                                       |           |
 |   2014 | The Look of Silence                                                                            |           |
-|   2014 | Interstellar                                                                                   |           |
-|   2015 | Star Wars: The Force Awakens                                                                   |           |
-|   2015 | The Revenant                                                                                   |           |
+|   2014 | Interstellar                                                                                   | X         |
+|   2015 | Star Wars: The Force Awakens                                                                   | X         |
+|   2015 | The Revenant                                                                                   | X         |
 |   2015 | Son of Saul (Saul fia)                                                                         |           |
 |   2015 | Bridge of Spies                                                                                |           |
-|   2015 | The Big Short                                                                                  |           |
+|   2015 | The Big Short                                                                                  | X         |
 |   2015 | Spotlight                                                                                      |           |
 |   2015 | Tangerine                                                                                      |           |
 |   2015 | Straight Outta Compton                                                                         |           |
-|   2015 | Mad Max: Fury Road                                                                             |           |
+|   2015 | Mad Max: Fury Road                                                                             | X         |
 |   2015 | Victoria                                                                                       |           |
 |   2015 | Inside Out                                                                                     |           |
 |   2016 | La La Land                                                                                     |           |
@@ -1213,7 +1213,7 @@
 |   2016 | Manchester by the Sea                                                                          |           |
 |   2016 | I, Daniel Blake                                                                                |           |
 |   2016 | 13th                                                                                           |           |
-|   2016 | Arrival                                                                                        |           |
+|   2016 | Arrival                                                                                        | X         |
 |   2016 | Moonlight                                                                                      |           |
 |   2016 | The Handmaiden                                                                                 |           |
 |   2016 | Dawson City: Frozen Time                                                                       |           |
@@ -1223,30 +1223,30 @@
 |   2017 | Three Billboards Outside Ebbing, Missouri                                                      |           |
 |   2017 | Call Me by Your Name                                                                           |           |
 |   2017 | Mother!                                                                                        |           |
-|   2017 | Blade Runner 2049                                                                              |           |
+|   2017 | Blade Runner 2049                                                                              | X         |
 |   2017 | Get Out                                                                                        |           |
 |   2017 | Phantom Thread                                                                                 |           |
 |   2017 | The Greatest Showman                                                                           |           |
-|   2017 | Coco                                                                                           |           |
+|   2017 | Coco                                                                                           | X         |
 |   2018 | Black Panther                                                                                  |           |
 |   2018 | Crazy Rich Asians                                                                              |           |
 |   2018 | Capernaum                                                                                      |           |
-|   2018 | A Star is Born                                                                                 |           |
-|   2018 | Avengers: Infinity War                                                                         |           |
+|   2018 | A Star is Born                                                                                 | X         |
+|   2018 | Avengers: Infinity War                                                                         | X         |
 |   2018 | Roma                                                                                           |           |
 |   2018 | Hereditary                                                                                     |           |
 |   2018 | The Favourite                                                                                  |           |
 |   2018 | Sorry to Bother You                                                                            |           |
 |   2018 | Vice                                                                                           |           |
 |   2018 | BlacKkKlansman                                                                                 |           |
-|   2019 | Avengers: Endgame                                                                              |           |
+|   2019 | Avengers: Endgame                                                                              | X         |
 |   2019 | Portrait of a Lady on Fire (Portrait de la jeune fille en feu)                                 |           |
 |   2019 | For Sama                                                                                       |           |
 |   2019 | Booksmart                                                                                      |           |
 |   2019 | Once Upon a Time in Hollywood                                                                  |           |
 |   2019 | The Farewell                                                                                   |           |
-|   2019 | Joker                                                                                          |           |
-|   2019 | Parasite                                                                                       |           |
+|   2019 | Joker                                                                                          | X         |
+|   2019 | Parasite                                                                                       | X         |
 |   2019 | Monos                                                                                          |           |
 |   2019 | Little Women                                                                                   |           |
 |   2019 | The Lighthouse                                                                                 |           |
