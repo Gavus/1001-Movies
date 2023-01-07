@@ -431,7 +431,7 @@
 |   1963 | An Actor's Revenge (Yukinojo Henge)                                                            |           |
 |   1963 | The Haunting                                                                                   |           |
 |   1963 | Winter Light (Nattvardsgästerna)                                                               |           |
-|   1964 | Goldfinger                                                                                     |           |
+|   1964 | Goldfinger                                                                                     | X         |
 |   1964 | My Fair Lady                                                                                   |           |
 |   1964 | The Red Desert (Il Deserto Rosso)                                                              |           |
 |   1964 | Woman in the Dunes (Suna no Onna)                                                              |           |
@@ -470,7 +470,7 @@
 |   1966 | Daisies (Sedmikrasky)                                                                          |           |
 |   1966 | Come Drink With Me (Da Zui Xia)                                                                |           |
 |   1966 | Seconds                                                                                        |           |
-|   1966 | The Good, the Bad, and the Ugly (Il Buono, il Brutto, il Cattivo)                              |           |
+|   1966 | The Good, the Bad, and the Ugly (Il Buono, il Brutto, il Cattivo)                              | X         |
 |   1966 | Persona                                                                                        |           |
 |   1966 | Balthazar (Au Hasard Balthazar)                                                                |           |
 |   1966 | Masculine-Feminine (Masculin, Féminin)                                                         |           |
@@ -491,21 +491,21 @@
 |   1967 | In the Heat of the Night                                                                       |           |
 |   1967 | Marketa Lazarová                                                                               |           |
 |   1967 | The Fireman's Ball (Horí, Má Panenko)                                                          |           |
-|   1967 | The Jungle Book                                                                                |           |
+|   1967 | The Jungle Book                                                                                | X         |
 |   1967 | Bonnie and Clyde                                                                               |           |
 |   1967 | Viy                                                                                            |           |
 |   1967 | Hombre                                                                                         |           |
 |   1969 | The Cow (Gaav)                                                                                 |           |
 |   1968 | Once Upon a Time in the West (C'era una Volta il West)                                         |           |
 |   1968 | Faces                                                                                          |           |
-|   1968 | Planet of the Apes                                                                             |           |
+|   1968 | Planet of the Apes                                                                             | X         |
 |   1968 | Rosemary's Baby                                                                                |           |
 |   1968 | If...                                                                                          |           |
 |   1968 | David Holzman's Diary                                                                          |           |
 |   1968 | Memories of Underdevelopment (Memorias del Subdesarrollo)                                      |           |
 |   1968 | High School                                                                                    |           |
 |   1968 | Hour of the Wolf (Vargtimmen)                                                                  |           |
-|   1968 | 2001: A Space Odyssey                                                                          |           |
+|   1968 | 2001: A Space Odyssey                                                                          | X         |
 |   1968 | Night of the Living Dead                                                                       |           |
 |   1968 | Targets                                                                                        |           |
 |   1968 | Shame (Skammen)                                                                                |           |
@@ -540,7 +540,7 @@
 |   1970 | Woodstock                                                                                      |           |
 |   1970 | Gimme Shelter                                                                                  |           |
 |   1970 | The Garden of the Finzi-Continis (Il Giardino dei Finzi-Contini)                               |           |
-|   1971 | Dirty Harry                                                                                    |           |
+|   1971 | Dirty Harry                                                                                    | X         |
 |   1971 | A Clockwork Orange                                                                             |           |
 |   1971 | McCabe and Mrs. Miller                                                                         |           |
 |   1971 | The Sorrow and the Pity (La Chagrin et la Pitié)                                               |           |
@@ -568,7 +568,7 @@
 |   1972 | Solaris (Solyaris)                                                                             |           |
 |   1972 | Cries and Whispers (Viskingar och Rop)                                                         |           |
 |   1972 | The Discreet Charm of the Bourgeoisie (Le Charme Discret de la Bourgeoisie)                    |           |
-|   1972 | The Godfather                                                                                  |           |
+|   1972 | The Godfather                                                                                  | X         |
 |   1972 | Last Tango in Paris (Ultimo Tango a Parigi)                                                    |           |
 |   1972 | The Bitter Tears of Petra Von Kant (Die Bitteren Tränen der Petra Von Kant)                    |           |
 |   1972 | Fat City                                                                                       |           |
@@ -591,7 +591,7 @@
 |   1973 | Day for Night (La Nuit Américaine)                                                             |           |
 |   1973 | Mean Streets                                                                                   |           |
 |   1973 | Sleeper                                                                                        |           |
-|   1973 | The Exorcist                                                                                   |           |
+|   1973 | The Exorcist                                                                                   | X         |
 |   1973 | F for Fake (Vérités et Mensonges)                                                              |           |
 |   1973 | Pat Garrett and Billy the Kid                                                                  |           |
 |   1973 | Turkish Delight (Turks Fruit)                                                                  |           |
@@ -602,13 +602,13 @@
 |   1974 | The Towering Inferno                                                                           |           |
 |   1974 | Bring Me the Head of Alfredo Garcia                                                            |           |
 |   1975 | Dersu Uzala                                                                                    |           |
-|   1974 | The Godfather: Part II                                                                         |           |
+|   1974 | The Godfather: Part II                                                                         | X         |
 |   1974 | The Conversation                                                                               |           |
 |   1974 | The Mirror (Zerkalo)                                                                           |           |
 |   1974 | Chinatown                                                                                      |           |
 |   1974 | A Woman Under the Influence                                                                    |           |
 |   1974 | Young Frankenstein                                                                             |           |
-|   1974 | The Texas Chain Saw Massacre                                                                   |           |
+|   1974 | The Texas Chain Saw Massacre                                                                   | X         |
 |   1974 | Blazing Saddles                                                                                |           |
 |   1974 | Celine and Julie Go Boating (Céline et Julie Vont en Bateau)                                   |           |
 |   1974 | Ali: Fear Eats the Soul (Angst Essen Seele Auf)                                                |           |
@@ -616,10 +616,10 @@
 |   1975 | The Rocky Horror Picture Show                                                                  |           |
 |   1975 | Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles                                            |           |
 |   1975 | The Travelling Players (O Thiassos)                                                            |           |
-|   1975 | Monty Python and the Holy Grail                                                                |           |
+|   1975 | Monty Python and the Holy Grail                                                                | X         |
 |   1975 | The Wall (Deewaar)                                                                             |           |
 |   1975 | Dog Day Afternoon                                                                              |           |
-|   1975 | One Flew Over the Cuckoo's Nest                                                                |           |
+|   1975 | One Flew Over the Cuckoo's Nest                                                                | X         |
 |   1975 | Manila in the Claws of Brightness (Maynila: sa Mga Kuko Ng Liwanag)                            |           |
 |   1975 | Fox and his Friends (Faustrecht der Freiheit)                                                  |           |
 |   1975 | Nashville                                                                                      |           |
@@ -634,14 +634,14 @@
 |   1976 | The Killing of a Chinese Bookie                                                                |           |
 |   1976 | Network                                                                                        |           |
 |   1976 | Carrie                                                                                         |           |
-|   1976 | Taxi Driver                                                                                    |           |
+|   1976 | Taxi Driver                                                                                    | X         |
 |   1976 | Rocky                                                                                          |           |
 |   1976 | In the Realm of the Senses (Ai no Corrida)                                                     |           |
 |   1976 | 1900 (Novecento)                                                                               |           |
 |   1977 | Ascent (Voskhozhdeniye)                                                                        |           |
 |   1977 | Close Encounters of the Third Kind                                                             |           |
 |   1977 | The Last Wave                                                                                  |           |
-|   1977 | Star Wars                                                                                      |           |
+|   1977 | Star Wars                                                                                      | X         |
 |   1977 | Stroszek                                                                                       |           |
 |   1977 | Ceddo                                                                                          |           |
 |   1977 | The American Friend (Der Amerikanische Freund)                                                 |           |
@@ -656,11 +656,11 @@
 |   1977 | Soldier of Orange (Soldaat van Oranje)                                                         |           |
 |   1977 | The Hills Have Eyes                                                                            |           |
 |   1978 | Days of Heaven                                                                                 |           |
-|   1978 | Halloween                                                                                      |           |
+|   1978 | Halloween                                                                                      | X         |
 |   1978 | The Tree of Wooden Clogs (L'albero Degli Zoccoli)                                              |           |
 |   1978 | The Chant of Jimmie Blacksmith                                                                 |           |
 |   1978 | The Deer Hunter                                                                                |           |
-|   1978 | Dawn of the Dead                                                                               |           |
+|   1978 | Dawn of the Dead                                                                               | X         |
 |   1978 | Up in Smoke                                                                                    |           |
 |   1978 | Grease                                                                                         |           |
 |   1978 | Shaolin Master Killer (Shao Lin San Shi Liu Fang)                                              |           |
@@ -669,22 +669,22 @@
 |   1979 | The Marriage of Maria Braun (Die Ehe der Maria Braun)                                          |           |
 |   1979 | Nosferatu: Phantom of the Night (Nosferatu: Phantom der Nacht)                                 |           |
 |   1979 | Stalker                                                                                        |           |
-|   1979 | Life of Brian                                                                                  |           |
+|   1979 | Life of Brian                                                                                  | X         |
 |   1979 | Real Life                                                                                      |           |
 |   1979 | Breaking Away                                                                                  |           |
-|   1979 | Alien                                                                                          |           |
+|   1979 | Alien                                                                                          | X         |
 |   1979 | Being There                                                                                    |           |
 |   1979 | Manhattan                                                                                      |           |
 |   1979 | Apocalypse Now                                                                                 |           |
 |   1979 | All That Jazz                                                                                  |           |
 |   1979 | The Muppet Movie                                                                               |           |
 |   1979 | Christ Stopped at Eboli (Cristo si è Fermato a Eboli)                                          |           |
-|   1979 | Mad Max                                                                                        |           |
+|   1979 | Mad Max                                                                                        | X         |
 |   1979 | The Tin Drum (Die Blechtrommel)                                                                |           |
 |   1979 | The Jerk                                                                                       |           |
 |   1979 | Kramer vs. Kramer                                                                              |           |
 |   1980 | Ordinary People                                                                                |           |
-|   1980 | Star Wars: Episode V - The Empire Strikes Back                                                 |           |
+|   1980 | Star Wars: Episode V - The Empire Strikes Back                                                 | X         |
 |   1980 | Atlantic City                                                                                  |           |
 |   1980 | The Last Metro (Le Dernier Métro)                                                              |           |
 |   1980 | The Shining                                                                                    |           |
@@ -692,7 +692,7 @@
 |   1980 | The Big Red One                                                                                |           |
 |   1980 | Loulou                                                                                         |           |
 |   1980 | Raging Bull                                                                                    |           |
-|   1980 | Airplane!                                                                                      |           |
+|   1980 | Airplane!                                                                                      | X         |
 |   1981 | An American Werewolf in London                                                                 |           |
 |   1981 | Diva                                                                                           |           |
 |   1981 | Raiders of the Lost Ark                                                                        |           |
@@ -703,18 +703,18 @@
 |   1981 | Man of Iron (Czlowiek z Zelaza)                                                                |           |
 |   1981 | Reds                                                                                           |           |
 |   1981 | Three Brothers (Tre Fratelli)                                                                  |           |
-|   1982 | E.T.: The Extra-Terrestrial                                                                    |           |
-|   1982 | The Evil Dead                                                                                  |           |
+|   1982 | E.T.: The Extra-Terrestrial                                                                    | X         |
+|   1982 | The Evil Dead                                                                                  | X         |
 |   1982 | Fast Times at Ridgemont High                                                                   |           |
 |   1982 | Too Early, Too Late (Zu Früh, Zu Spät / Trop Tôt, Trop Tard)                                   |           |
 |   1982 | Poltergeist                                                                                    |           |
 |   1982 | Yol                                                                                            |           |
-|   1982 | Blade Runner                                                                                   |           |
+|   1982 | Blade Runner                                                                                   | X         |
 |   1982 | Diner                                                                                          |           |
 |   1982 | Tootsie                                                                                        |           |
 |   1982 | Fitzcarraldo                                                                                   |           |
 |   1982 | Gandhi                                                                                         |           |
-|   1982 | The Thing                                                                                      |           |
+|   1982 | The Thing                                                                                      | X         |
 |   1982 | Fanny and Alexander (Fanny och Alexander)                                                      |           |
 |   1982 | The Night of the Shooting Stars (La Notte di San Lorenzo)                                      |           |
 |   1982 | A Question of Silence (De Stilte Rond Christine M.)                                            |           |
@@ -724,21 +724,21 @@
 |   1983 | The Right Stuff                                                                                |           |
 |   1983 | The Big Chill                                                                                  |           |
 |   1983 | Sunless (Sans Soleil)                                                                          |           |
-|   1983 | Star Wars: Episode VI - Return of the Jedi                                                     |           |
+|   1983 | Star Wars: Episode VI - Return of the Jedi                                                     | X         |
 |   1983 | The Ballad of Narayama (Narayama Bushi-ko)                                                     |           |
 |   1983 | Terms of Endearment                                                                            |           |
 |   1983 | El Norte                                                                                       |           |
 |   1983 | The Fourth Man (De Vierde Man)                                                                 |           |
 |   1983 | Videodrome                                                                                     |           |
 |   1983 | Koyaanisqatsi                                                                                  |           |
-|   1983 | Scarface                                                                                       |           |
+|   1983 | Scarface                                                                                       | X         |
 |   1983 | The King of Comedy                                                                             |           |
 |   1983 | Local Hero                                                                                     |           |
 |   1983 | Once Upon a Time in America                                                                    |           |
 |   1983 | The Last Battle (Le Dernier Combat)                                                            |           |
-|   1984 | The Terminator                                                                                 |           |
+|   1984 | The Terminator                                                                                 | X         |
 |   1984 | The Natural                                                                                    |           |
-|   1984 | Ghostbusters                                                                                   |           |
+|   1984 | Ghostbusters                                                                                   | X         |
 |   1984 | Paris, Texas                                                                                   |           |
 |   1984 | A Nightmare on Elm Street                                                                      |           |
 |   1984 | This is Spinal Tap                                                                             |           |
@@ -779,9 +779,9 @@
 |   1986 | Aliens                                                                                         |           |
 |   1986 | Ferris Bueller's Day Off                                                                       |           |
 |   1986 | The Fly                                                                                        |           |
-|   1986 | Top Gun                                                                                        |           |
+|   1986 | Top Gun                                                                                        | X         |
 |   1986 | Sherman's March                                                                                |           |
-|   1986 | Stand By Me                                                                                    |           |
+|   1986 | Stand By Me                                                                                    | X         |
 |   1985 | Tampopo                                                                                        |           |
 |   1986 | The Horse Thief (Dao Ma Zei)                                                                   |           |
 |   1987 | Goodbye Children (Au Revoir les Enfants)                                                       |           |
@@ -792,7 +792,7 @@
 |   1987 | Withnail and I                                                                                 |           |
 |   1987 | The Princess Bride                                                                             |           |
 |   1987 | A Chinese Ghost Story (Sinnui Yauman)                                                          |           |
-|   1987 | Full Metal Jacket                                                                              |           |
+|   1987 | Full Metal Jacket                                                                              | X         |
 |   1987 | Broadcast News                                                                                 |           |
 |   1987 | Babette's Feast (Babbetes Gaestebud)                                                           |           |
 |   1987 | Good Morning, Vietnam                                                                          |           |
@@ -817,13 +817,13 @@
 |   1988 | Cinema Paradiso (Nuovo Cinema Paradiso)                                                        |           |
 |   1988 | Grave of the Fireflies (Hotaru no Haka)                                                        |           |
 |   1988 | Big                                                                                            |           |
-|   1988 | Who Framed Roger Rabbit?                                                                       |           |
+|   1988 | Who Framed Roger Rabbit?                                                                       | X         |
 |   1988 | The Decalogue (Dekalog)                                                                        |           |
-|   1988 | Rain Man                                                                                       |           |
-|   1988 | Die Hard                                                                                       |           |
+|   1988 | Rain Man                                                                                       | X         |
+|   1988 | Die Hard                                                                                       | X         |
 |   1988 | Dangerous Liaisons                                                                             |           |
 |   1988 | Dead Ringers                                                                                   |           |
-|   1987 | RoboCop                                                                                        |           |
+|   1987 | RoboCop                                                                                        | X         |
 |   1988 | Distant Voices, Still Lives                                                                    |           |
 |   1988 | Landscape in the Mist (Topio Stin Omichli)                                                     |           |
 |   1988 | The Story of Women (Une Affaire de Femmes)                                                     |           |
@@ -831,7 +831,7 @@
 |   1988 | Drowning By Numbers                                                                            |           |
 |   1989 | When Harry Met Sally                                                                           |           |
 |   1989 | Crimes and Misdemeanors                                                                        |           |
-|   1989 | Batman                                                                                         |           |
+|   1989 | Batman                                                                                         | X         |
 |   1989 | Field of Dreams                                                                                |           |
 |   1989 | Glory                                                                                          |           |
 |   1989 | The Cook, the Thief, His Wife, & Her Lover                                                     |           |
@@ -847,18 +847,18 @@
 |   1989 | Say Anything                                                                                   |           |
 |   1990 | Trust                                                                                          |           |
 |   1990 | No Fear, No Die (S'en Fout la Mort)                                                            |           |
-|   1990 | Goodfellas                                                                                     |           |
+|   1990 | Goodfellas                                                                                     | X         |
 |   1990 | Close-Up (Nema-ye Nazdik)                                                                      |           |
 |   1990 | King of New York                                                                               |           |
 |   1990 | Pretty Woman                                                                                   |           |
 |   1990 | Dances with Wolves                                                                             |           |
 |   1990 | Henry: Portrait of a Serial Killer                                                             |           |
 |   1990 | Archangel                                                                                      |           |
-|   1990 | Total Recall                                                                                   |           |
-|   1990 | Edward Scissorhands                                                                            |           |
+|   1990 | Total Recall                                                                                   | X         |
+|   1990 | Edward Scissorhands                                                                            | X         |
 |   1990 | Europa Europa (Hitlerjunge Salomon)                                                            |           |
 |   1990 | Reversal of Fortune                                                                            |           |
-|   1990 | Jacob's Ladder                                                                                 |           |
+|   1990 | Jacob's Ladder                                                                                 | X         |
 |   1991 | Boyz 'N the Hood                                                                               |           |
 |   1991 | The Beautiful Troublemaker (La Belle Noiseuse)                                                 |           |
 |   1991 | The Rapture                                                                                    |           |
@@ -866,10 +866,10 @@
 |   1991 | JFK                                                                                            |           |
 |   1991 | Slacker                                                                                        |           |
 |   1991 | Once Upon a Time in China (Wong Fei-Hung)                                                      |           |
-|   1991 | Thelma & Louise                                                                                |           |
+|   1991 | Thelma & Louise                                                                                | X         |
 |   1991 | My Own Private Idaho                                                                           |           |
-|   1991 | The Silence of the Lambs                                                                       |           |
-|   1991 | Terminator 2: Judgment Day                                                                     |           |
+|   1991 | The Silence of the Lambs                                                                       | X         |
+|   1991 | Terminator 2: Judgment Day                                                                     | X         |
 |   1991 | Delicatessen                                                                                   |           |
 |   1991 | The Double Life of Veronique (La Double Vie de Véronique)                                      |           |
 |   1989 | Tongues Untied                                                                                 |           |
@@ -880,7 +880,7 @@
 |   1992 | Romper Stomper                                                                                 |           |
 |   1992 | Strictly Ballroom                                                                              |           |
 |   1992 | The Player                                                                                     |           |
-|   1992 | Reservoir Dogs                                                                                 |           |
+|   1992 | Reservoir Dogs                                                                                 | X         |
 |   1992 | Glengarry Glen Ross                                                                            |           |
 |   1992 | A Tale of Winter (Conte D'hiver)                                                               |           |
 |   1992 | Unforgiven                                                                                     |           |
@@ -943,7 +943,7 @@
 |   2010 | Toy Story 3                                                                                    | X         |
 |   2019 | Toy Story 4                                                                                    | X         |
 |   1995 | Dead Man                                                                                       |           |
-|   1995 | The Usual Suspects                                                                             |           |
+|   1995 | The Usual Suspects                                                                             | X         |
 |   1995 | Zero Kelvin (Kjærlighetens Kjøtere)                                                            |           |
 |   1995 | Casino                                                                                         |           |
 |   1995 | Strange Days                                                                                   |           |
@@ -1068,16 +1068,16 @@
 |   2003 | The Barbarian Invasions (Les Invasions Barbares)                                               |           |
 |   2003 | Kill Bill, Vol. 1                                                                              | X         |
 |   2003 | The Best of Youth (La Meglio Gioventù)                                                         |           |
-|   2003 | Lost in Translation                                                                            |           |
+|   2003 | Lost in Translation                                                                            | X         |
 |   2004 | Head-On (Gegen Die Wand)                                                                       |           |
 |   2004 | The Consequences of Love (Le Conseguenze dell’Amore)                                           |           |
 |   2004 | Moolaadé                                                                                       |           |
-|   2004 | Downfall (Der Untergang)                                                                       |           |
+|   2004 | Downfall (Der Untergang)                                                                       | X         |
 |   2004 | Fahrenheit 9/11                                                                                |           |
 |   2004 | The Passion of the Christ                                                                      | X         |
 |   2004 | Collateral                                                                                     |           |
 |   2004 | The Aviator                                                                                    |           |
-|   2004 | Million Dollar Baby                                                                            |           |
+|   2004 | Million Dollar Baby                                                                            | X         |
 |   2004 | 3-Iron (Bin-Jip)                                                                               |           |
 |   2004 | Moving Castle                                                                                  |           |
 |   2004 | Crash                                                                                          |           |
@@ -1172,7 +1172,7 @@
 |   2012 | Amour                                                                                          |           |
 |   2012 | Django Unchained                                                                               | X         |
 |   2012 | The Act of Killing                                                                             |           |
-|   2013 | Gravity                                                                                        |           |
+|   2013 | Gravity                                                                                        | X         |
 |   2013 | The Great Beauty (La grande bellezza)                                                          |           |
 |   2013 | Blue Is the Warmest Color (La vie d’Adèle - Chapitres 1 et 2)                                  |           |
 |   2013 | 12 Years a Slave                                                                               |           |
@@ -1190,7 +1190,7 @@
 |   2014 | The Grand Budapest Hotel                                                                       | X         |
 |   2014 | Citizenfour                                                                                    |           |
 |   2014 | Guardians of the Galaxy                                                                        | X         |
-|   2014 | The Theory of Everything                                                                       |           |
+|   2014 | The Theory of Everything                                                                       | X         |
 |   2014 | The Look of Silence                                                                            |           |
 |   2014 | Interstellar                                                                                   | X         |
 |   2015 | Star Wars: The Force Awakens                                                                   | X         |
