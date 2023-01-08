@@ -430,7 +430,7 @@ Year>Title>Watched
 1963> An Actor's Revenge (Yukinojo Henge)>
 1963> The Haunting>
 1963> Winter Light (Nattvardsgästerna)>
-1964> Goldfinger>X
+1964> Goldfinger>✅
 1964> My Fair Lady>
 1964> The Red Desert (Il Deserto Rosso)>
 1964> Woman in the Dunes (Suna no Onna)>
@@ -469,7 +469,7 @@ Year>Title>Watched
 1966> Daisies (Sedmikrasky)>
 1966> Come Drink With Me (Da Zui Xia)>
 1966> Seconds>
-1966> The Good, the Bad, and the Ugly (Il Buono, il Brutto, il Cattivo)>X
+1966> The Good, the Bad, and the Ugly (Il Buono, il Brutto, il Cattivo)>✅
 1966> Persona>
 1966> Balthazar (Au Hasard Balthazar)>
 1966> Masculine-Feminine (Masculin, Féminin)>
@@ -490,21 +490,21 @@ Year>Title>Watched
 1967> In the Heat of the Night>
 1967> Marketa Lazarová>
 1967> The Fireman's Ball (Horí, Má Panenko)>
-1967> The Jungle Book>X
+1967> The Jungle Book>✅
 1967> Bonnie and Clyde>
 1967> Viy>
 1967> Hombre>
 1969> The Cow (Gaav)>
 1968> Once Upon a Time in the West (C'era una Volta il West)>
 1968> Faces>
-1968> Planet of the Apes>X
+1968> Planet of the Apes>✅
 1968> Rosemary's Baby>
 1968> If...>
 1968> David Holzman's Diary>
 1968> Memories of Underdevelopment (Memorias del Subdesarrollo)>
 1968> High School>
 1968> Hour of the Wolf (Vargtimmen)>
-1968> 2001: A Space Odyssey>X
+1968> 2001: A Space Odyssey>✅
 1968> Night of the Living Dead>
 1968> Targets>
 1968> Shame (Skammen)>
@@ -539,7 +539,7 @@ Year>Title>Watched
 1970> Woodstock>
 1970> Gimme Shelter>
 1970> The Garden of the Finzi-Continis (Il Giardino dei Finzi-Contini)>
-1971> Dirty Harry>X
+1971> Dirty Harry>✅
 1971> A Clockwork Orange>
 1971> McCabe and Mrs. Miller>
 1971> The Sorrow and the Pity (La Chagrin et la Pitié)>
@@ -567,7 +567,7 @@ Year>Title>Watched
 1972> Solaris (Solyaris)>
 1972> Cries and Whispers (Viskingar och Rop)>
 1972> The Discreet Charm of the Bourgeoisie (Le Charme Discret de la Bourgeoisie)>
-1972> The Godfather>X
+1972> The Godfather>✅
 1972> Last Tango in Paris (Ultimo Tango a Parigi)>
 1972> The Bitter Tears of Petra Von Kant (Die Bitteren Tränen der Petra Von Kant)>
 1972> Fat City>
@@ -590,7 +590,7 @@ Year>Title>Watched
 1973> Day for Night (La Nuit Américaine)>
 1973> Mean Streets>
 1973> Sleeper>
-1973> The Exorcist>X
+1973> The Exorcist>✅
 1973> F for Fake (Vérités et Mensonges)>
 1973> Pat Garrett and Billy the Kid>
 1973> Turkish Delight (Turks Fruit)>
@@ -601,13 +601,13 @@ Year>Title>Watched
 1974> The Towering Inferno>
 1974> Bring Me the Head of Alfredo Garcia>
 1975> Dersu Uzala>
-1974> The Godfather: Part II>X
+1974> The Godfather: Part II>✅
 1974> The Conversation>
 1974> The Mirror (Zerkalo)>
 1974> Chinatown>
 1974> A Woman Under the Influence>
 1974> Young Frankenstein>
-1974> The Texas Chain Saw Massacre>X
+1974> The Texas Chain Saw Massacre>✅
 1974> Blazing Saddles>
 1974> Celine and Julie Go Boating (Céline et Julie Vont en Bateau)>
 1974> Ali: Fear Eats the Soul (Angst Essen Seele Auf)>
@@ -615,10 +615,10 @@ Year>Title>Watched
 1975> The Rocky Horror Picture Show>
 1975> Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles>
 1975> The Travelling Players (O Thiassos)>
-1975> Monty Python and the Holy Grail>X
+1975> Monty Python and the Holy Grail>✅
 1975> The Wall (Deewaar)>
 1975> Dog Day Afternoon>
-1975> One Flew Over the Cuckoo's Nest>X
+1975> One Flew Over the Cuckoo's Nest>✅
 1975> Manila in the Claws of Brightness (Maynila: sa Mga Kuko Ng Liwanag)>
 1975> Fox and his Friends (Faustrecht der Freiheit)>
 1975> Nashville>
@@ -633,14 +633,14 @@ Year>Title>Watched
 1976> The Killing of a Chinese Bookie>
 1976> Network>
 1976> Carrie>
-1976> Taxi Driver>X
+1976> Taxi Driver>✅
 1976> Rocky>
 1976> In the Realm of the Senses (Ai no Corrida)>
 1976> 1900 (Novecento)>
 1977> Ascent (Voskhozhdeniye)>
 1977> Close Encounters of the Third Kind>
 1977> The Last Wave>
-1977> Star Wars>X
+1977> Star Wars>✅
 1977> Stroszek>
 1977> Ceddo>
 1977> The American Friend (Der Amerikanische Freund)>
@@ -655,11 +655,11 @@ Year>Title>Watched
 1977> Soldier of Orange (Soldaat van Oranje)>
 1977> The Hills Have Eyes>
 1978> Days of Heaven>
-1978> Halloween>X
+1978> Halloween>✅
 1978> The Tree of Wooden Clogs (L'albero Degli Zoccoli)>
 1978> The Chant of Jimmie Blacksmith>
 1978> The Deer Hunter>
-1978> Dawn of the Dead>X
+1978> Dawn of the Dead>✅
 1978> Up in Smoke>
 1978> Grease>
 1978> Shaolin Master Killer (Shao Lin San Shi Liu Fang)>
@@ -668,22 +668,22 @@ Year>Title>Watched
 1979> The Marriage of Maria Braun (Die Ehe der Maria Braun)>
 1979> Nosferatu: Phantom of the Night (Nosferatu: Phantom der Nacht)>
 1979> Stalker>
-1979> Life of Brian>X
+1979> Life of Brian>✅
 1979> Real Life>
 1979> Breaking Away>
-1979> Alien>X
+1979> Alien>✅
 1979> Being There>
 1979> Manhattan>
 1979> Apocalypse Now>
 1979> All That Jazz>
 1979> The Muppet Movie>
 1979> Christ Stopped at Eboli (Cristo si è Fermato a Eboli)>
-1979> Mad Max>X
+1979> Mad Max>✅
 1979> The Tin Drum (Die Blechtrommel)>
 1979> The Jerk>
 1979> Kramer vs. Kramer>
 1980> Ordinary People>
-1980> Star Wars: Episode V - The Empire Strikes Back>X
+1980> Star Wars: Episode V - The Empire Strikes Back>✅
 1980> Atlantic City>
 1980> The Last Metro (Le Dernier Métro)>
 1980> The Shining>
@@ -691,7 +691,7 @@ Year>Title>Watched
 1980> The Big Red One>
 1980> Loulou>
 1980> Raging Bull>
-1980> Airplane!>X
+1980> Airplane!>✅
 1981> An American Werewolf in London>
 1981> Diva>
 1981> Raiders of the Lost Ark>
@@ -702,18 +702,18 @@ Year>Title>Watched
 1981> Man of Iron (Czlowiek z Zelaza)>
 1981> Reds>
 1981> Three Brothers (Tre Fratelli)>
-1982> E.T.: The Extra-Terrestrial>X
-1982> The Evil Dead>X
+1982> E.T.: The Extra-Terrestrial>✅
+1982> The Evil Dead>✅
 1982> Fast Times at Ridgemont High>
 1982> Too Early, Too Late (Zu Früh, Zu Spät / Trop Tôt, Trop Tard)>
 1982> Poltergeist>
 1982> Yol>
-1982> Blade Runner>X
+1982> Blade Runner>✅
 1982> Diner>
 1982> Tootsie>
 1982> Fitzcarraldo>
 1982> Gandhi>
-1982> The Thing>X
+1982> The Thing>✅
 1982> Fanny and Alexander (Fanny och Alexander)>
 1982> The Night of the Shooting Stars (La Notte di San Lorenzo)>
 1982> A Question of Silence (De Stilte Rond Christine M.)>
@@ -723,21 +723,21 @@ Year>Title>Watched
 1983> The Right Stuff>
 1983> The Big Chill>
 1983> Sunless (Sans Soleil)>
-1983> Star Wars: Episode VI - Return of the Jedi>X
+1983> Star Wars: Episode VI - Return of the Jedi>✅
 1983> The Ballad of Narayama (Narayama Bushi-ko)>
 1983> Terms of Endearment>
 1983> El Norte>
 1983> The Fourth Man (De Vierde Man)>
 1983> Videodrome>
 1983> Koyaanisqatsi>
-1983> Scarface>X
+1983> Scarface>✅
 1983> The King of Comedy>
 1983> Local Hero>
 1983> Once Upon a Time in America>
 1983> The Last Battle (Le Dernier Combat)>
-1984> The Terminator>X
+1984> The Terminator>✅
 1984> The Natural>
-1984> Ghostbusters>X
+1984> Ghostbusters>✅
 1984> Paris, Texas>
 1984> A Nightmare on Elm Street>
 1984> This is Spinal Tap>
@@ -778,9 +778,9 @@ Year>Title>Watched
 1986> Aliens>
 1986> Ferris Bueller's Day Off>
 1986> The Fly>
-1986> Top Gun>X
+1986> Top Gun>✅
 1986> Sherman's March>
-1986> Stand By Me>X
+1986> Stand By Me>✅
 1985> Tampopo>
 1986> The Horse Thief (Dao Ma Zei)>
 1987> Goodbye Children (Au Revoir les Enfants)>
@@ -791,7 +791,7 @@ Year>Title>Watched
 1987> Withnail and I>
 1987> The Princess Bride>
 1987> A Chinese Ghost Story (Sinnui Yauman)>
-1987> Full Metal Jacket>X
+1987> Full Metal Jacket>✅
 1987> Broadcast News>
 1987> Babette's Feast (Babbetes Gaestebud)>
 1987> Good Morning, Vietnam>
@@ -816,13 +816,13 @@ Year>Title>Watched
 1988> Cinema Paradiso (Nuovo Cinema Paradiso)>
 1988> Grave of the Fireflies (Hotaru no Haka)>
 1988> Big>
-1988> Who Framed Roger Rabbit?>X
+1988> Who Framed Roger Rabbit?>✅
 1988> The Decalogue (Dekalog)>
-1988> Rain Man>X
-1988> Die Hard>X
+1988> Rain Man>✅
+1988> Die Hard>✅
 1988> Dangerous Liaisons>
 1988> Dead Ringers>
-1987> RoboCop>X
+1987> RoboCop>✅
 1988> Distant Voices, Still Lives>
 1988> Landscape in the Mist (Topio Stin Omichli)>
 1988> The Story of Women (Une Affaire de Femmes)>
@@ -830,7 +830,7 @@ Year>Title>Watched
 1988> Drowning By Numbers>
 1989> When Harry Met Sally>
 1989> Crimes and Misdemeanors>
-1989> Batman>X
+1989> Batman>✅
 1989> Field of Dreams>
 1989> Glory>
 1989> The Cook, the Thief, His Wife, & Her Lover>
@@ -846,18 +846,18 @@ Year>Title>Watched
 1989> Say Anything>
 1990> Trust>
 1990> No Fear, No Die (S'en Fout la Mort)>
-1990> Goodfellas>X
+1990> Goodfellas>✅
 1990> Close-Up (Nema-ye Nazdik)>
 1990> King of New York>
 1990> Pretty Woman>
 1990> Dances with Wolves>
 1990> Henry: Portrait of a Serial Killer>
 1990> Archangel>
-1990> Total Recall>X
-1990> Edward Scissorhands>X
+1990> Total Recall>✅
+1990> Edward Scissorhands>✅
 1990> Europa Europa (Hitlerjunge Salomon)>
 1990> Reversal of Fortune>
-1990> Jacob's Ladder>X
+1990> Jacob's Ladder>✅
 1991> Boyz 'N the Hood>
 1991> The Beautiful Troublemaker (La Belle Noiseuse)>
 1991> The Rapture>
@@ -865,10 +865,10 @@ Year>Title>Watched
 1991> JFK>
 1991> Slacker>
 1991> Once Upon a Time in China (Wong Fei-Hung)>
-1991> Thelma & Louise>X
+1991> Thelma & Louise>✅
 1991> My Own Private Idaho>
-1991> The Silence of the Lambs>X
-1991> Terminator 2: Judgment Day>X
+1991> The Silence of the Lambs>✅
+1991> Terminator 2: Judgment Day>✅
 1991> Delicatessen>
 1991> The Double Life of Veronique (La Double Vie de Véronique)>
 1989> Tongues Untied>
@@ -879,7 +879,7 @@ Year>Title>Watched
 1992> Romper Stomper>
 1992> Strictly Ballroom>
 1992> The Player>
-1992> Reservoir Dogs>X
+1992> Reservoir Dogs>✅
 1992> Glengarry Glen Ross>
 1992> A Tale of Winter (Conte D'hiver)>
 1992> Unforgiven>
@@ -894,21 +894,21 @@ Year>Title>Watched
 1993> The Puppetmaster (Hsimeng Jensheng)>
 1993> The Remains of the Day>
 1993> Short Cuts>
-1993> Schindler's List>X
+1993> Schindler's List>✅
 1993> Three Colors: Blue (Trois Couleurs: Bleu)>
 1993> Farewell My Concubine (Ba Wang Bie Ji)>
 1993> Groundhog Day>
 1993> The Piano>
 1993> The Wedding Banquet (Hsi Yen)>
 1993> Thirty Two Short Films About Glenn Gould>
-1993> Jurassic Park>X
+1993> Jurassic Park>✅
 1993> The Age of Innocence>
-1994> The Lion King>X
+1994> The Lion King>✅
 1994> The Last Seduction>
 1994> The Wild Reeds (Les Roseaux Sauvages)>
 1994> Crumb>
 1994> Heavenly Creatures>
-1994> Pulp Fiction>X
+1994> Pulp Fiction>✅
 1994> Three Colors: Red (Trois Couleurs: Rouge)>
 1994> Natural Born Killers>
 1994> Muriel's Wedding>
@@ -917,18 +917,18 @@ Year>Title>Watched
 1994> Sátántangó>
 1994> Clerks>
 1994> Four Weddings and a Funeral>
-1994> Forrest Gump>X
+1994> Forrest Gump>✅
 1994> Through the Olive Trees (Zire Darakhatan Zeyton)>
-1994> The Shawshank Redemption>X
+1994> The Shawshank Redemption>✅
 1994> Dear Diary (Caro Diario)>
 1994> Chungking Express (Chong Qing Sen Lin)>
 1994> The Kingdom (Riget)>
 1994> Lamerica>
-1995> Braveheart>X
+1995> Braveheart>✅
 1995> Deseret>
 1995> Babe>
 1995> Sense and Sensibility>
-1995> Se7en>X
+1995> Se7en>✅
 1995> Smoke>
 1995> The White Balloon (Badkonake Sefid)>
 1995> Underground>
@@ -937,35 +937,35 @@ Year>Title>Watched
 1995> Clueless>
 1995> Safe>
 1995> Heat>
-1995> Toy Story>X
-1999> Toy Story 2>X
-2010> Toy Story 3>X
-2019> Toy Story 4>X
+1995> Toy Story>✅
+1999> Toy Story 2>✅
+2010> Toy Story 3>✅
+2019> Toy Story 4>✅
 1995> Dead Man>
-1995> The Usual Suspects>X
+1995> The Usual Suspects>✅
 1995> Zero Kelvin (Kjærlighetens Kjøtere)>
 1995> Casino>
 1995> Strange Days>
-1996> Trainspotting>X
+1996> Trainspotting>✅
 1996> Fargo>
 1996> Gabbeh>
 1996> Three Lives and Only One Death (Trois Vies & Une Seule Mort)>
 1996> Shine>
-1996> Scream>X
+1996> Scream>✅
 1996> Secrets & Lies>
 1996> The English Patient>
 1996> Lone Star>
 1996> Breaking the Waves>
-1996> Independence Day>X
+1996> Independence Day>✅
 1996> The Pillow Book>
 1997> The Ice Storm>
 1997> Hana-Bi>
 1997> Boogie Nights>
 1997> L.A. Confidential>
-1997> Funny Games>X
+1997> Funny Games>✅
 1997> Open Your Eyes (Abre Los Ojos)>
 1997> The Sweet Hereafter>
-1997> Titanic>X
+1997> Titanic>✅
 1997> Taste of Cherry (Ta'm e Guilass)>
 1997> Deconstructing Harry>
 1997> Happy Together (Cheun Gwong Tsa Sit)>
@@ -975,33 +975,33 @@ Year>Title>Watched
 1997> Kundun>
 1997> Mother and Son (Mat' i Syn)>
 1997> Princess Mononoke>
-1998> Saving Private Ryan>X
+1998> Saving Private Ryan>✅
 1998> Run Lola Run (Lola Rennt)>
 1998> Rushmore>
 1998> The Celebration (Festen)>
 1998> Buffalo '66>
-1998> Ring (Ringu)>X
+1998> Ring (Ringu)>✅
 1998> Happiness>
 1998> The Thin Red Line>
 1989> Tetsuo>
 1998> Lock, Stock, and Two Smoking Barrels>
-1998> Pi>X
+1998> Pi>✅
 1998> The Idiots (Idioterne)>
 1998> Sombre>
 1998> There's Something About Mary>
-1998> The Big Lebowski>X
-1998> The Truman Show>X
+1998> The Big Lebowski>✅
+1998> The Truman Show>✅
 1999> The Blair Witch Project>
 1999> Being John Malkovich>
-1999> The Sixth Sense>X
+1999> The Sixth Sense>✅
 1999> Three Kings>
 1999> Magnolia>
-1999> Fight Club>X
+1999> Fight Club>✅
 1999> Audition (Ōdishon)>
-1999> American Beauty>X
+1999> American Beauty>✅
 1999> Beau Travail>
 1999> All About My Mother (Todo Sobre mi Madre)>
-1999> The Matrix>X
+1999> The Matrix>✅
 1999> Taboo (Gohatto)>
 1999> Rosetta>
 1999> The Wind Will Carry Us (Bād mā rā Khāhad Bord)>
@@ -1010,12 +1010,12 @@ Year>Title>Watched
 1999> Eyes Wide Shut>
 2000> The Gleaners and I (Les Glaneurs et la Glaneuse)>
 2000> In the Mood for Love (Dut Yeung Nin Wa)>
-2000> Gladiator>X
+2000> Gladiator>✅
 2000> Kippur>
 2000> A One and a Two (Yi Yi)>
-2000> Requiem for a Dream>X
+2000> Requiem for a Dream>✅
 2000> Amores Perros>
-2000> Memento>X
+2000> Memento>✅
 2000> Crouching Tiger, Hidden Dragon (Wo Hu Cang Long)>
 2000> Nine Queens (Nueve Reinas)>
 2000> The Captive (La Captive)>
@@ -1024,12 +1024,12 @@ Year>Title>Watched
 2000> Signs & Wonders>
 2000> Traffic>
 2000> Dancer in the Dark>
-2000> O Brother, Where Art Thou?>X
-2001> The Lord of the Rings: The Fellowship of the Ring>X
-2002> The Lord of the Rings: The Two Towers>X
-2003> The Lord of the Rings: The Return of the King>X
-2003> Finding Nemo>X
-2001> Spirited Away (Sen to Chihiro no Kamikakushi)>X
+2000> O Brother, Where Art Thou?>✅
+2001> The Lord of the Rings: The Fellowship of the Ring>✅
+2002> The Lord of the Rings: The Two Towers>✅
+2003> The Lord of the Rings: The Return of the King>✅
+2003> Finding Nemo>✅
+2001> Spirited Away (Sen to Chihiro no Kamikakushi)>✅
 2001> No Man's Land>
 2001> Amélie (Le Fabuleux Destin d' Amélie Poulain)>
 2001> What Time Is It There? (Ni na Bian Ji Dian)>
@@ -1037,20 +1037,20 @@ Year>Title>Watched
 2001> Kandahar (Safar e Ghandehar)>
 2001> The Piano Teacher (La Pianiste)>
 2001> The Son's Room (La Stanza del Figlio)>
-2001> Moulin Rouge>X
+2001> Moulin Rouge>✅
 2001> Monsoon Wedding>
 2001> Fat Girl (A Ma Soeur!)>
 2001> Mulholland Drive>
 2001> The Royal Tenenbaums>
 2001> Lantana>
 2001> A.I.: Artificial Intelligence>
-2001> Spirited Away>X
+2001> Spirited Away>✅
 2002> Gangs of New York>
 2002> Russian Ark (Russkij Kovcheg)>
 2002> Bowling for Columbine>
 2002> City of God (Cidade de Deus)>
 2002> Talk to Her (Hable Con Ella)>
-2002> The Pianist>X
+2002> The Pianist>✅
 2002> Adaptation.>
 2002> Far from Heaven>
 2002> Chicago>
@@ -1061,82 +1061,82 @@ Year>Title>Watched
 2002> Bus 174>
 2003> Elephant>
 2003> Aileen: Life and Death of a Serial Killer>
-2003> Oldboy>X
+2003> Oldboy>✅
 2003> Good Bye, Lenin!>
 2003> Osama>
 2003> The Barbarian Invasions (Les Invasions Barbares)>
-2003> Kill Bill, Vol. 1>X
+2003> Kill Bill, Vol. 1>✅
 2003> The Best of Youth (La Meglio Gioventù)>
-2003> Lost in Translation>X
+2003> Lost in Translation>✅
 2004> Head-On (Gegen Die Wand)>
 2004> The Consequences of Love (Le Conseguenze dell’Amore)>
 2004> Moolaadé>
-2004> Downfall (Der Untergang)>X
+2004> Downfall (Der Untergang)>✅
 2004> Fahrenheit 9/11>
-2004> The Passion of the Christ>X
+2004> The Passion of the Christ>✅
 2004> Collateral>
 2004> The Aviator>
-2004> Million Dollar Baby>X
+2004> Million Dollar Baby>✅
 2004> 3-Iron (Bin-Jip)>
 2004> Moving Castle>
 2004> Crash>
 2004> Sideways>
 2004> A Very Long Engagement (Un Long Dimanche de Fiançailles)>
 2005> Tsotsi>
-2005> Brokeback Mountain>X
+2005> Brokeback Mountain>✅
 2005> Go, See, and Become (Va, Vis et Deviens / Live and Become)>
 2005> Paradise Now>
 2005> Hidden (Caché)>
 2005> The Constant Gardener>
-2005> Pride and Prejudice>X
-2005> V for Vendetta>X
+2005> Pride and Prejudice>✅
+2005> V for Vendetta>✅
 2006> Pan's Labyrinth (El Laberinto del Fauno)>
 2006> The Lives of Others (Das Leben der Anderen)>
 2006> Apocalypto>
-2006> Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan>X
+2006> Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan>✅
 2006> Once>
 2006> The Queen>
 2006> The Host (Gwoemul)>
 2006> The Prestige>
 2006> Children of Men>
 2006> United 93>
-2006> The Last King of Scotland>X
+2006> The Last King of Scotland>✅
 2006> Babel>
 2006> Volver>
-2006> Little Miss Sunshine>X
+2006> Little Miss Sunshine>✅
 2006> The Departed>
 2007> Paranormal Activity>
-2007> There Will Be Blood>X
+2007> There Will Be Blood>✅
 2007> La Vie en Rose>
 2007> Into the Wild>
 2007> Atonement>
 2007> Surfwise>
 2007> The Bourne Ultimatum>
-2007> No Country for Old Men>X
+2007> No Country for Old Men>✅
 2007> The Diving Bell and the Butterfly (Le Scaphandre et le Papillon)>
-2008> The Hurt Locker>X
-2008> Slumdog Millionaire>X
-2008> The Dark Knight>X
-2008> Let the Right One In (Låt den Rätte Komma In)>X
-2008> Wall-E>X
+2008> The Hurt Locker>✅
+2008> Slumdog Millionaire>✅
+2008> The Dark Knight>✅
+2008> Let the Right One In (Låt den Rätte Komma In)>✅
+2008> Wall-E>✅
 2008> The Good, the Bad, the Weird (Joheun nom Nabbeun nom Isanghan nom)>
 2008> The Wrestler>
 2008> The Curious Case of Benjamin Button>
 2008> The Class (Entre les Murs)>
 2008> Anvil! The Story of Anvil>
 2008> Gomorrah (Gomorra)>
-2009> District 9>X
+2009> District 9>✅
 2009> Avatar>
 2009> An Education>
 2009>" Precious: Based on the Novel ""Push"" by Sapphire">
-2009> The Hangover>X
+2009> The Hangover>✅
 2009> In the Loop>
 2009> Fish Tank>
-2009> Inglourious Basterds>X
+2009> Inglourious Basterds>✅
 2009> The White Ribbon (Das Weisse Band: Eine Deutsche Kindergeschichte)>
 2009> Up>
 2010> Nostalgia for the Light (Nostalgia de la luz)>
-2010> Black Swan>X
+2010> Black Swan>✅
 2010> Inception>
 2010> The Social Network>
 2010> Monsters>
@@ -1146,7 +1146,7 @@ Year>Title>Watched
 2010> The King's Speech>
 2010> Senna>
 2010> Cave of Forgotten Dreams>
-2010> Tangled>X
+2010> Tangled>✅
 2011> The Artist>
 2011> A Separation (Jodái-e Náder az Simin)>
 2011> The Girl with the Dragon Tattoo>
@@ -1159,19 +1159,19 @@ Year>Title>Watched
 2011> Bridesmaids>
 2011> The Tree of Life>
 2011> The Kid with a Bike (Le Gamin au vélo)>
-2011> Drive>X
-2012> The Cabin in the Woods>X
+2011> Drive>✅
+2012> The Cabin in the Woods>✅
 2012> Wadjda>
 2012> Lincoln>
-2012> Life of Pi>X
+2012> Life of Pi>✅
 2012> Les Misérables>
 2012> Argo>
-2012> Skyfall>X
+2012> Skyfall>✅
 2012> Blancanieves>
 2012> Amour>
-2012> Django Unchained>X
+2012> Django Unchained>✅
 2012> The Act of Killing>
-2013> Gravity>X
+2013> Gravity>✅
 2013> The Great Beauty (La grande bellezza)>
 2013> Blue Is the Warmest Color (La vie d’Adèle - Chapitres 1 et 2)>
 2013> 12 Years a Slave>
@@ -1181,26 +1181,26 @@ Year>Title>Watched
 2013> A Touch of Sin (Tian zhu ding)>
 2013> Ida>
 2013> Under the Skin>
-2013> The Wolf of Wall Street>X
+2013> The Wolf of Wall Street>✅
 2014> Leviathan (Leviafan)>
 2014> Boyhood>
 2014> Birdman: Or (The Unexpected Virtue of Ignorance)>
 2014> Whiplash>
-2014> The Grand Budapest Hotel>X
+2014> The Grand Budapest Hotel>✅
 2014> Citizenfour>
-2014> Guardians of the Galaxy>X
-2014> The Theory of Everything>X
+2014> Guardians of the Galaxy>✅
+2014> The Theory of Everything>✅
 2014> The Look of Silence>
-2014> Interstellar>X
-2015> Star Wars: The Force Awakens>X
-2015> The Revenant>X
+2014> Interstellar>✅
+2015> Star Wars: The Force Awakens>✅
+2015> The Revenant>✅
 2015> Son of Saul (Saul fia)>
 2015> Bridge of Spies>
-2015> The Big Short>X
+2015> The Big Short>✅
 2015> Spotlight>
 2015> Tangerine>
 2015> Straight Outta Compton>
-2015> Mad Max: Fury Road>X
+2015> Mad Max: Fury Road>✅
 2015> Victoria>
 2015> Inside Out>
 2016> La La Land>
@@ -1212,7 +1212,7 @@ Year>Title>Watched
 2016> Manchester by the Sea>
 2016> I, Daniel Blake>
 2016> 13th>
-2016> Arrival>X
+2016> Arrival>✅
 2016> Moonlight>
 2016> The Handmaiden>
 2016> Dawson City: Frozen Time>
@@ -1222,30 +1222,30 @@ Year>Title>Watched
 2017> Three Billboards Outside Ebbing, Missouri>
 2017> Call Me by Your Name>
 2017> Mother!>
-2017> Blade Runner 2049>X
+2017> Blade Runner 2049>✅
 2017> Get Out>
 2017> Phantom Thread>
 2017> The Greatest Showman>
-2017> Coco>X
+2017> Coco>✅
 2018> Black Panther>
 2018> Crazy Rich Asians>
 2018> Capernaum>
-2018> A Star is Born>X
-2018> Avengers: Infinity War>X
+2018> A Star is Born>✅
+2018> Avengers: Infinity War>✅
 2018> Roma>
 2018> Hereditary>
 2018> The Favourite>
 2018> Sorry to Bother You>
 2018> Vice>
 2018> BlacKkKlansman>
-2019> Avengers: Endgame>X
+2019> Avengers: Endgame>✅
 2019> Portrait of a Lady on Fire (Portrait de la jeune fille en feu)>
 2019> For Sama>
 2019> Booksmart>
 2019> Once Upon a Time in Hollywood>
 2019> The Farewell>
-2019> Joker>X
-2019> Parasite>X
+2019> Joker>✅
+2019> Parasite>✅
 2019> Monos>
 2019> Little Women>
 2019> The Lighthouse>
